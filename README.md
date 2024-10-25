@@ -11,7 +11,7 @@ A Python-based tool to scrape proxies from multiple sources and generate random 
 - Generate random proxies of different types.
 - Save scraped or generated proxies to custom text files.
 - Customizable and easy to use with clear prompts.
-- [Additional features of your tool]
+- 
 
 ## Requirements
 - **Python 3.8+**.
